@@ -2,7 +2,7 @@
 
 Port of the {fmt} library to Arduino.
 
-Currently this port is based on the version 10.1.1.
+Currently this port is based on the version 11.2.0.
 
 ## Usage
 
